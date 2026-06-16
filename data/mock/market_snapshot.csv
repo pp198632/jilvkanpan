@@ -1,0 +1,5 @@
+trade_date,index_code,index_name,close_price,change_percent,turnover_amount,market_breadth,notes
+2026-06-16,000001.SH,上证指数,0,0,0,NEUTRAL,Mock数据，待接入真实行情
+2026-06-16,399001.SZ,深证成指,0,0,0,NEUTRAL,Mock数据，待接入真实行情
+2026-06-16,399006.SZ,创业板指,0,0,0,NEUTRAL,Mock数据，待接入真实行情
+2026-06-16,000688.SH,科创50,0,0,0,NEUTRAL,Mock数据，待接入真实行情
