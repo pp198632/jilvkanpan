@@ -1,0 +1,6 @@
+keyword,concept,sector,stock_code,stock_name,relevance_score,notes
+AI terminal,consumer electronics,consumer electronics,002475,example_stock_a,80,mock mapping only
+memory chip,semiconductor,semiconductor,688525,example_stock_b,90,mock mapping only
+semiconductor equipment,semiconductor equipment,semiconductor,300604,example_stock_c,88,mock mapping only
+robotics event,robotics,industrial machinery,002896,example_stock_d,82,mock mapping only
+market risk preference,technology growth,technology,000000,example_stock_e,60,mock mapping only
