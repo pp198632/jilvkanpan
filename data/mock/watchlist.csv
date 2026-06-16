@@ -1,0 +1,4 @@
+code,name,market,sector,concepts,current_price,cost_price,position_percent,stop_loss_price,target_price,status,notes
+688525,佰维存储,科创板,半导体,存储芯片;AI硬件,345.76,320.00,100,315.00,380.00,HOLDING,满仓样例，用于触发风控
+300604,长川科技,创业板,半导体,半导体设备;先进封装,42.50,40.00,0,37.80,48.00,WATCHING,观察半导体设备强度
+000001,平安银行,主板,银行,金融;低估值,11.20,0,0,0,0,WATCHING,指数权重观察样例
