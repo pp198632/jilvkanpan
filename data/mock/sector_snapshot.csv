@@ -1,0 +1,5 @@
+trade_date,sector_name,change_percent,turnover_amount,leading_stock_code,leading_stock_name,strength_score,notes
+2026-06-16,半导体,0,0,688525,佰维存储,85,热点样例
+2026-06-16,消费电子,0,0,002475,立讯精密,78,AI端侧样例
+2026-06-16,机器人,0,0,002896,中大力德,72,产业事件样例
+2026-06-16,银行,0,0,000001,平安银行,40,防御板块样例
